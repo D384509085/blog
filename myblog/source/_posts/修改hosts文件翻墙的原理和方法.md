@@ -1,6 +1,7 @@
 ---
 title: win下通过修改host文件科学上网的原理和操作
 date: 2017-09-22 12:10:08
+categories: 计算机基础
 tags:
 ---
 

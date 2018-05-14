@@ -2,6 +2,7 @@
 title: hash算法基本总结
 date: 2017-10-29 10:07:37
 tags:
+categories: 计算机基础
 ---
 
 # 基本介绍

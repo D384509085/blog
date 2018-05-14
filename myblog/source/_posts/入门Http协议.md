@@ -1,6 +1,7 @@
 ---
 title: 入门Http协议
 date: 2017-11-22 23:06:24
+categories: 计算机基础
 tags:
 ---
 # HTTP简介
